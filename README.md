@@ -2,11 +2,11 @@
 
 ## Dependencies
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-Enabled-orange)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-Supported-yellow)
-![Pandas](https://img.shields.io/badge/Pandas-Enabled-lightblue)
-![PySpark](https://img.shields.io/badge/PySpark-Enabled-red)
+[![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://docs.python.org/3.10/)
+[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-Enabled-orange)](https://spark.apache.org/)
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-Supported-yellow)](https://colab.research.google.com/)
+[![Pandas](https://img.shields.io/badge/Pandas-library-yellow)](https://pandas.pydata.org/)
+[![PySpark](https://img.shields.io/badge/PySpark-Enabled-red)](https://spark.apache.org/docs/latest/api/python/index.html#)
 
 ## Overview
 
